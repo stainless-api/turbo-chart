@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="terminal"
+   viewBox="0 0 1240 329"
+   width="1240"
+   version="1.1"
+   sodipodi:docname="termtosvg_00024.svg"
+   height="329"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:termtosvg="https://github.com/nbedos/termtosvg">
+  <sodipodi:namedview
+     id="namedview44"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.99720074"
+     inkscape:cx="856.39728"
+     inkscape:cy="343.46144"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g100" />
+  <defs
+     id="defs1">
+    <termtosvg:template_settings>
+      <termtosvg:screen_geometry
+         columns="184"
+         rows="26" />
+      <termtosvg:animation
+         type="css" />
+    </termtosvg:template_settings>
+    <style
+       type="text/css"
+       id="generated-style"><![CDATA[#screen {
+                font-family: 'DejaVu Sans Mono', monospace;
+                font-style: normal;
+                font-size: 14px;
+            }
+
+        text {
+            dominant-baseline: text-before-edge;
+            white-space: pre;
+        }
+    ]]></style>
+    <style
+       type="text/css"
+       id="user-style">
+            /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
+               them as needed.
+               PowerShell colors based on https://en.wikipedia.org/wiki/ANSI_escape_code#Colors */
+            .foreground {fill: #cccccc;}
+            .background {fill: #0c0c0c;}
+            .color0 {fill: #0c0c0c;}
+            .color1 {fill: #c50f1f;}
+            .color2 {fill: #13a10e;}
+            .color3 {fill: #c19c00;}
+            .color4 {fill: #0037da;}
+            .color5 {fill: #881798;}
+            .color6 {fill: #3a96dd;}
+            .color7 {fill: #cccccc;}
+            .color8 {fill: #767676;}
+            .color9 {fill: #e74856;}
+            .color10 {fill: #16c60c;}
+            .color11 {fill: #f9f1a5;}
+            .color12 {fill: #3b78ff;}
+            .color13 {fill: #b4009e;}
+            .color14 {fill: #61d6d6;}
+            .color15 {fill: #f2f2f2;}
+        </style>
+    <defs
+       id="defs29">
+      <g
+         id="g1">
+        <text
+           x="0"
+           textLength="296"
+           class="foreground"
+           id="text1"
+           lengthAdjust="spacing">Mac:stl-api-docs em$ pnpm turbo-chart</text>
+      </g>
+      <g
+         id="g2">
+        <text
+           x="0"
+           textLength="136"
+           font-weight="bold"
+           class="color14"
+           id="text2"
+           lengthAdjust="spacing">&gt; turbo run check</text>
+        <text
+           x="136"
+           textLength="48"
+           class="foreground"
+           id="text3"
+           lengthAdjust="spacing"> 8.73s</text>
+      </g>
+      <g
+         id="g3">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text4"
+           lengthAdjust="spacing">//#check:format                       </text>
+        <text
+           x="304"
+           textLength="808"
+           class="foreground"
+           id="text5"
+           lengthAdjust="spacing">│           │            │           │ 3.32s      │           │            │           │            │</text>
+      </g>
+      <g
+         id="g4">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text6"
+           lengthAdjust="spacing">@stainless/eslint-config#check:types  </text>
+        <text
+           x="304"
+           textLength="808"
+           class="foreground"
+           id="text7"
+           lengthAdjust="spacing">│           │759ms       │           │            │           │            │           │            │</text>
+      </g>
+      <g
+         id="g5">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text8"
+           lengthAdjust="spacing">@stainless/eslint-config#lint         </text>
+        <text
+           x="304"
+           textLength="808"
+           class="foreground"
+           id="text9"
+           lengthAdjust="spacing">│           │  1.28s     │           │            │           │            │           │            │</text>
+      </g>
+      <g
+         id="g6">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text10"
+           lengthAdjust="spacing">@stainless/docs-content#check:types   </text>
+        <text
+           x="304"
+           textLength="808"
+           class="foreground"
+           id="text11"
+           lengthAdjust="spacing">│           │            │           │2.55s       │           │            │           │            │</text>
+      </g>
+      <g
+         id="g7">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text12"
+           lengthAdjust="spacing">@stainless/docs-content#lint          </text>
+        <text
+           x="304"
+           textLength="808"
+           class="foreground"
+           id="text13"
+           lengthAdjust="spacing">│           │            │941ms      │            │           │            │           │            │</text>
+      </g>
+      <g
+         id="g8">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text14"
+           lengthAdjust="spacing">@stainless/sdk-json#check:types       </text>
+        <text
+           x="304"
+           textLength="808"
+           class="foreground"
+           id="text15"
+           lengthAdjust="spacing">│           │417ms       │           │            │           │            │           │            │</text>
+      </g>
+      <g
+         id="g9">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text16"
+           lengthAdjust="spacing">@stainless/sdk-json#lint              </text>
+        <text
+           x="304"
+           textLength="808"
+           class="foreground"
+           id="text17"
+           lengthAdjust="spacing">│           │            │851ms      │            │           │            │           │            │</text>
+      </g>
+      <g
+         id="g10">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text18"
+           lengthAdjust="spacing">@stainless-api/docs-ui#check:types    </text>
+        <text
+           x="304"
+           textLength="808"
+           class="foreground"
+           id="text19"
+           lengthAdjust="spacing">│           │            │     1.46s │            │           │            │           │            │</text>
+      </g>
+      <g
+         id="g11">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text20"
+           lengthAdjust="spacing">@stainless-api/docs-ui#lint           </text>
+        <text
+           x="304"
+           textLength="808"
+           class="foreground"
+           id="text21"
+           lengthAdjust="spacing">│           │            │           │            │   2.52s   │            │           │            │</text>
+      </g>
+      <g
+         id="g12">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text22"
+           lengthAdjust="spacing">@stainless-api/docs#check:types       </text>
+        <text
+           x="304"
+           textLength="848"
+           class="foreground"
+           id="text23"
+           lengthAdjust="spacing">│           │            │           │            │           │            │           │            │5.97s</text>
+      </g>
+      <g
+         id="g13">
+        <text
+           x="0"
+           textLength="304"
+           class="color8"
+           id="text24"
+           lengthAdjust="spacing">@stainless-api/docs#lint              </text>
+        <text
+           x="304"
+           textLength="808"
+           class="foreground"
+           id="text25"
+           lengthAdjust="spacing">│           │            │           │            │           │            │    2.2s   │            │</text>
+      </g>
+      <g
+         id="g14">
+        <text
+           x="0"
+           textLength="1152"
+           class="foreground"
+           id="text26"
+           lengthAdjust="spacing">                                      │           │            │           │            │           │            │           │            │     </text>
+      </g>
+      <g
+         id="g15">
+        <text
+           x="0"
+           textLength="1152"
+           class="foreground"
+           id="text27"
+           lengthAdjust="spacing">                                      │0ms        │1.07s       │2.15s      │3.23s       │4.31s      │5.38s       │6.46s      │7.54s       │8.62s</text>
+      </g>
+      <g
+         id="g16">
+        <text
+           x="0"
+           textLength="168"
+           class="foreground"
+           id="text28"
+           lengthAdjust="spacing">Mac:stl-api-docs em$ </text>
+        <text
+           x="168"
+           textLength="8"
+           class="background"
+           id="text29"
+           lengthAdjust="spacing" />
+      </g>
+    </defs>
+  </defs>
+  <g
+     id="g100"
+     transform="translate(20,20)">
+    <rect
+       class="background"
+       height="84.929176%"
+       width="96.001366%"
+       x="4.7915115"
+       y="4.7915115"
+       id="rect1"
+       style="font-style:normal;font-size:14px;font-family:'DejaVu Sans Mono', monospace;stroke:#000000;stroke-width:49.583;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       ry="0.5"
+       rx="0.5" />
+    <g
+       id="g44"
+       style="font-style:normal;font-size:14px;font-family:'DejaVu Sans Mono', monospace">
+      <use
+         xlink:href="#g1"
+         y="0"
+         id="use29" />
+      <use
+         xlink:href="#g2"
+         y="34"
+         id="use30" />
+      <rect
+         x="304"
+         y="68"
+         width="304"
+         height="17"
+         fill="#00875f"
+         id="rect30" />
+      <use
+         xlink:href="#g3"
+         y="68"
+         id="use31" />
+      <rect
+         x="304"
+         y="85"
+         width="64"
+         height="17"
+         fill="#af8700"
+         id="rect31" />
+      <use
+         xlink:href="#g4"
+         y="85"
+         id="use32" />
+      <rect
+         x="304"
+         y="102"
+         width="112"
+         height="17"
+         fill="#af8700"
+         id="rect32" />
+      <use
+         xlink:href="#g5"
+         y="102"
+         id="use33" />
+      <rect
+         x="368"
+         y="119"
+         width="232"
+         height="17"
+         fill="#875faf"
+         id="rect33" />
+      <use
+         xlink:href="#g6"
+         y="119"
+         id="use34" />
+      <rect
+         x="416"
+         y="136"
+         width="80"
+         height="17"
+         fill="#875faf"
+         id="rect34" />
+      <use
+         xlink:href="#g7"
+         y="136"
+         id="use35" />
+      <rect
+         x="368"
+         y="153"
+         width="32"
+         height="17"
+         fill="#d75f00"
+         id="rect35" />
+      <use
+         xlink:href="#g8"
+         y="153"
+         id="use36" />
+      <rect
+         x="424"
+         y="170"
+         width="72"
+         height="17"
+         fill="#d75f00"
+         id="rect36" />
+      <use
+         xlink:href="#g9"
+         y="170"
+         id="use37" />
+      <rect
+         x="408"
+         y="187"
+         width="136"
+         height="17"
+         fill="#5f8700"
+         id="rect37" />
+      <use
+         xlink:href="#g10"
+         y="187"
+         id="use38" />
+      <rect
+         x="496"
+         y="204"
+         width="232"
+         height="17"
+         fill="#5f8700"
+         id="rect38" />
+      <use
+         xlink:href="#g11"
+         y="204"
+         id="use39" />
+      <rect
+         x="544"
+         y="221"
+         width="552"
+         height="17"
+         fill="#0087af"
+         id="rect39" />
+      <use
+         xlink:href="#g12"
+         y="221"
+         id="use40" />
+      <rect
+         x="736"
+         y="238"
+         width="200"
+         height="17"
+         fill="#0087af"
+         id="rect40" />
+      <use
+         xlink:href="#g13"
+         y="238"
+         id="use41" />
+      <use
+         xlink:href="#g14"
+         y="255"
+         id="use42" />
+      <use
+         xlink:href="#g15"
+         y="272"
+         id="use43" />
+    </g>
+  </g>
+</svg>
