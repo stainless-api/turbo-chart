@@ -275,7 +275,7 @@ class TimelineRenderer {
       currentPos++;
     }
 
-    return styleText(dim, markerLine + "\n" + labelLine);
+    return styleText(dim, markerLine) + "\n" + styleText(dim, labelLine);
   }
 
   /**
