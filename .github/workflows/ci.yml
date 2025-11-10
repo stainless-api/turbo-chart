@@ -14,14 +14,18 @@ jobs:
               with:
                   fetch-depth: 0 # Needed for git history
 
+            - name: Enable corepack
+              run: |
+                  corepack enable
+
             - name: Install Node.js
               uses: actions/setup-node@v5
               with:
                   node-version: 22
+                  cache: "pnpm"
 
             - name: Install dependencies
               run: |
-                  corepack enable
                   pnpm install
 
             - name: Check
