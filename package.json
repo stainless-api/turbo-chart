@@ -1,0 +1,22 @@
+{
+  "name": "turbo-chart",
+  "version": "0.0.0",
+  "description": "visualize your turbo build times",
+  "license": "Apache-2.0",
+  "packageManager": "pnpm@10.17.0",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "build": "node --experimental-strip-types scripts/build.mts",
+    "prepack": "node --run build",
+    "check": "tsc"
+  },
+  "bin": {
+    "turbo-chart": "./dist/turbo-chart.mjs"
+  },
+  "files": [
+    "dist/turbo-chart.mjs"
+  ]
+}
